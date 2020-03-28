@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9095afda3f160e438ce3a249a3b14e2, type: 3}
+  m_Name: Cookie
+  m_EditorClassIdentifier: 
+  name: Cookie
+  id: 16
+  dish: {fileID: 11400000, guid: 13fe7f666a8835048a814138b38acf6f, type: 2}
+  ingredients:
+  - {fileID: 11400000, guid: 6c13ace72028d434cb73f9bdc08a82d7, type: 2}
+  - {fileID: 11400000, guid: a6542324980ddb84dbdb34ef1831518f, type: 2}
